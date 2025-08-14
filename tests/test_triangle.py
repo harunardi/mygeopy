@@ -1,4 +1,3 @@
-import numpy as np
 from mygeopy.triangle import hypot
 
 def test_hypot():

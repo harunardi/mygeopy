@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mygeopy
+Version: 0.1.0a0
+Summary: My Python package for working with geometry.
+Author-email: Harun Ardiansyah <harunardi13@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/harunardi/mygeopy
+License-File: LICENSE.txt
+Provides-Extra: tests
+Requires-Dist: pytest; extra == "tests"
+Dynamic: license-file
