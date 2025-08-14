@@ -1,9 +1,7 @@
 import numpy as np
-import numbers
-import doctest
+from mygeopy.triangle import hypot
 
 def test_hypot():
-    from mygeopy.triangle import hypot
 
     assert hypot(3, 4) == 5
     assert hypot(5, 12) == 13

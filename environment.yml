@@ -1,0 +1,9 @@
+name: example-pytest
+channels:
+  - defaults
+dependencies:
+  - pip
+  - numpy
+  - pytest
+  - doctest
+prefix: /home/harunardi/miniconda3/envs/example-pytest
